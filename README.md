@@ -78,18 +78,6 @@ Dự án này là bài tập thực hành Lab 3 cho môn Lập trình thiết b�
 - Giao diện **Dark Mode** chuyên nghiệp, dễ nhìn.
 - Hỗ trợ cử chỉ: Vuốt màn hình để xóa ký tự (Backspace gesture).
 
----
-
-## Ảnh chụp màn hình (Screenshots)
-
-| Chế độ Cơ bản & Khoa học | Màn hình Lịch sử |
-|:-------------------------:|:----------------:|
-| ![Basic Mode](screenshots/basic_mode.png) | ![History](screenshots/history.png) |
-
-*(Lưu ý: Hãy đảm bảo bạn đã thêm ảnh vào thư mục `screenshots/` trong dự án)*
-
----
-
 ##  Sơ đồ kiến trúc (Architecture)
 
 Dự án sử dụng mô hình **Provider Pattern** để quản lý trạng thái (State Management), giúp tách biệt logic xử lý và giao diện người dùng.
