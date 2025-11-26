@@ -1,6 +1,7 @@
 # advanced_calculator
 
-A new Flutter project.
+<img width="417" height="982" alt="image" src="https://github.com/user-attachments/assets/70cd3900-454d-46d5-9357-bbf852894b4f" />
+
 
 ## Getting Started
 
